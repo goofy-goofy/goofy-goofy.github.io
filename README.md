@@ -30,7 +30,7 @@ This is the portfolio website of pod 2.1.3, also known as Goofy goofy! We put al
 The URL for this website can be found at: https://ali-doggaz.github.io/POD-WEBSITE/ 
 
 ### Built With
-We built it using HTML/CSS and JavaScript
+HTML, CSS, and JavaScript
 
 <!-- Screenshots -->
 ## screenshots

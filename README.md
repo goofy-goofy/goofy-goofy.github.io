@@ -10,7 +10,7 @@ We were inspired by our own goofiness and love of cartoons, as well as beginning
 We built it using HTML/CSS and JavaScript
 
 # Challenges we ran into
-We tried to use Gatsby, but many in our group were learning it for the first time, so ran into issues that come when you first use a development environment or learning a new laguage. But- we overcame!
+We tried to use Gatsby, but many in our group were learning it for the first time, so ran into issues that come when you first use a development environment or learning a new language. But- we overcame!
 
 # Accomplishments that we're proud of
 Working together as a group from so many time zones!

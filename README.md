@@ -24,7 +24,7 @@
 ## About The Project
 
 ### Presentation
-![alt text](https://upload.wikimedia.org/wikipedia/commons/d/dc/Portfolio.hu_full_logo.png)
+![Portfolio](https://upload.wikimedia.org/wikipedia/commons/d/dc/Portfolio.hu_full_logo.png)
 
 This is the portfolio website of pod 2.1.3, also known as Goofy goofy! We put all our heart (and goofiness) into creating it, and we hope you'll love it! We were inspired by our own goofiness and love of cartoons, as well as beginning our time together over the next twelve weeks!
 The URL for this website can be found at: https://ali-doggaz.github.io/POD-WEBSITE/ 
@@ -37,19 +37,19 @@ HTML, CSS, and JavaScript
 
 Welcome Page:
 
-![alt text](https://github.com/Ali-Doggaz/POD-WEBSITE/tree/main/images/Readme/01.PNG)
+![Welcome Page](https://github.com/Ali-Doggaz/POD-WEBSITE/tree/main/images/Readme/01.PNG)
 
 Who We Are:
 
-![alt text](https://github.com/Ali-Doggaz/POD-WEBSITE/tree/main/images/Readme/02.PNG)
+![Who We Are](https://github.com/Ali-Doggaz/POD-WEBSITE/tree/main/images/Readme/02.PNG)
 
 Blog's landing page:
 
-![alt text](https://github.com/Ali-Doggaz/POD-WEBSITE/tree/main/images/Readme/03.PNG)
+![Blog's landing page](https://github.com/Ali-Doggaz/POD-WEBSITE/tree/main/images/Readme/03.PNG)
 
 Featured Article Of The Week:
 
-![alt text](https://github.com/Ali-Doggaz/POD-WEBSITE/tree/main/images/Readme/04.PNG)
+![Featured Article Of The Week](https://github.com/Ali-Doggaz/POD-WEBSITE/tree/main/images/Readme/04.PNG)
 
 <!-- challenges -->
 ## Challenges

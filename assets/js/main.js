@@ -279,3 +279,9 @@
 				});
 
 })(jQuery);
+
+
+function add_style(){
+	document.querySelector('#goofy .container1 img').style.opacity=1;
+    document.querySelector('#goofy .container2 img').style.opacity=1;
+}

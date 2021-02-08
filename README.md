@@ -33,7 +33,7 @@ The URL for this website can be found at: https://ali-doggaz.github.io/POD-WEBSI
 HTML, CSS, and JavaScript
 
 <!-- Screenshots -->
-## screenshots
+## Screenshots
 
 Welcome Page:
 
@@ -52,7 +52,7 @@ Featured Article Of The Week:
 ![alt text](https://github.com/Ali-Doggaz/POD-WEBSITE/blob/Readme.md-update/images/Readme/04.PNG)
 
 <!-- challenges -->
-## challenges
+## Challenges
 We tried to use Gatsby, but many in our group were learning it for the first time, so ran into issues that come when you first use a development environment or learning a new language. But- we overcame!
 
 <!-- WHAT WE LEARNED -->

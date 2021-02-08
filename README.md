@@ -35,7 +35,7 @@ HTML, CSS, and JavaScript
 <!-- Screenshots -->
 ## Screenshots
 
-Welcome Page:
+Header:
 
 ![Welcome Page](https://github.com/Ali-Doggaz/POD-WEBSITE/blob/main/images/Readme/01.PNG?raw=true)
 

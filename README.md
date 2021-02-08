@@ -26,8 +26,8 @@
 ### Presentation
 ![Portfolio](https://upload.wikimedia.org/wikipedia/commons/d/dc/Portfolio.hu_full_logo.png)
 
-This is the portfolio website of pod 2.1.3, also known as Goofy goofy! We put all our heart (and goofiness) into creating it, and we hope you'll love it! We were inspired by our own goofiness and love of cartoons, as well as beginning our time together over the next twelve weeks!
-The URL for this website can be found at: https://ali-doggaz.github.io/POD-WEBSITE/ 
+This is our team portfolio website of MLH Fellowship (Explorer Track) Pod 2.1.3, also known as Goofy Goofy! We put all our heart (and goofiness) into creating it, and we hope you'll love it! We were inspired by our own goofiness and love of cartoons, as well as beginning our time together over the next twelve weeks!
+The URL for our website can be found at: https://ali-doggaz.github.io/POD-WEBSITE/. 
 
 ### Built With
 HTML, CSS, and JavaScript
@@ -61,13 +61,13 @@ We tried to use Gatsby, but many in our group were learning it for the first tim
 ## What We Learned
 
 - Get organized on day one
-- Use tools that multiple people in the group are already familar with so they can help teach others.
+- Use tools that multiple people in the group are already familar with so they can help teach others
 
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to get knowledge, skills, inspiration, and creativity. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)

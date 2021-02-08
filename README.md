@@ -37,19 +37,19 @@ We built it using HTML/CSS and JavaScript
 
 Welcome Page:
 
-![alt text](https://github.com/Ali-Doggaz/My-Portfolio/blob/master/images/Readme/01.png?raw=true)
+![alt text](https://github.com/Ali-Doggaz/POD-WEBSITE/tree/main/images/Readme/01.png?raw=true)
 
 Who We Are:
 
-![alt text](https://github.com/Ali-Doggaz/My-Portfolio/blob/master/images/Readme/02.png?raw=true)
+![alt text](https://github.com/Ali-Doggaz/POD-WEBSITE/tree/main/images/Readme/02.png?raw=true)
 
 Blog's landing page:
 
-![alt text](https://github.com/Ali-Doggaz/My-Portfolio/blob/master/images/Readme/03.png?raw=true)
+![alt text](https://github.com/Ali-Doggaz/POD-WEBSITE/tree/main/images/Readme/03.png?raw=true)
 
 Featured Article Of The Week:
 
-![alt text](https://github.com/Ali-Doggaz/My-Portfolio/blob/master/images/Readme/04.png?raw=true)
+![alt text](https://github.com/Ali-Doggaz/POD-WEBSITE/tree/main/images/Readme/04.png?raw=true)
 
 <!-- challenges -->
 ## challenges

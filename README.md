@@ -75,6 +75,6 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [HTML5UP for their amazing template (Hyperspace)](https://html5up.net/)
+* [HTML5UP for their amazing templates ('multiverse' and 'massively')](https://html5up.net/)
 * [MLH](https://mlh.io/)
 * [GitHub Pages](https://pages.github.com)

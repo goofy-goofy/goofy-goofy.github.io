@@ -41,7 +41,9 @@ Header:
 
 Who We Are:
 
-![Who We Are](https://github.com/Ali-Doggaz/POD-WEBSITE/blob/main/images/Readme/02.PNG)
+![Who We Are 1](https://github.com/Ali-Doggaz/POD-WEBSITE/blob/main/images/Readme/02.PNG)
+
+![Who We Are 2](https://github.com/Ali-Doggaz/POD-WEBSITE/blob/main/images/Readme/05.PNG)
 
 Blog's landing page:
 

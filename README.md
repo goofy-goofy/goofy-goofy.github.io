@@ -1,6 +1,6 @@
 # POD-WEBSITE-Goofy-Goofy
 
-### The URL for this website can be found at: https://ali-doggaz.github.io/POD-WEBSITE/blog/index.html ###
+### The URL for this website can be found at: https://ali-doggaz.github.io/POD-WEBSITE/ ###
 
 The website was developed using a template from HTML5
 # Inspiration

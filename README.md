@@ -23,4 +23,4 @@ Working together as a group from so many time zones!
 Adding more projects and creating a timeline
 
 # Built With
-HTML5
+HTML5, CSS3, and JS

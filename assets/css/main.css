@@ -2,9 +2,9 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic');
 
 /*
-	Multiverse by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+  Multiverse by HTML5 UP
+  html5up.net | @ajlkn
+  Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
 @-moz-keyframes spinner {
@@ -365,6 +365,10 @@ h1 {
 
 h2 {
   font-size: 1.25em;
+}
+
+.text-shadow {
+  text-shadow: 2px 2px #265a8f;
 }
 
 h3 {
@@ -1622,9 +1626,9 @@ body {
 
 #header {
   /* -moz-transform: translateY(0);
-		-webkit-transform: translateY(0);
-		-ms-transform: translateY(0);
-		transform: translateY(0); */
+    -webkit-transform: translateY(0);
+    -ms-transform: translateY(0);
+    transform: translateY(0); */
   -moz-transition: -moz-transform 1s ease;
   -webkit-transition: -webkit-transform 1s ease;
   -ms-transition: -ms-transform 1s ease;

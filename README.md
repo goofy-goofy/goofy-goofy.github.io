@@ -27,7 +27,7 @@
 ![Portfolio](https://upload.wikimedia.org/wikipedia/commons/d/dc/Portfolio.hu_full_logo.png)
 
 This is our team portfolio website of MLH Fellowship (Explorer Track) Pod 2.1.3, also known as Goofy Goofy! We put all our heart (and goofiness) into creating it, and we hope you'll love it! We were inspired by our own goofiness and love of cartoons, as well as beginning our time together over the next twelve weeks!
-The URL for our website can be found at: https://ali-doggaz.github.io/POD-WEBSITE/. 
+The URL for our website can be found at: https://goofy-goofy.github.io/ 
 
 ### Built With
 HTML, CSS, and JavaScript
